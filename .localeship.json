@@ -1,6 +1,8 @@
 {
   "sourceLocale": "en",
-  "targetLocales": ["ar"],
+  "targetLocales": [
+    "ar"
+  ],
   "files": [
     {
       "source": "composeApp/src/commonMain/composeResources/values/*.xml",
